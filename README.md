@@ -1,6 +1,6 @@
 # Watta Switch — your coding tools, your choice of model
 
-[![Latest release](https://img.shields.io/github/v/release/srknlabs/watta_ai_switch?display_name=tag&sort=semver)](https://github.com/srknlabs/watta_ai_switch/releases/latest)
+[![Latest release](https://img.shields.io/badge/macOS-v0.1.15-009F95)](https://github.com/srknlabs/watta_ai_switch/releases/latest)
 
 Keep working in **Codex and Claude Code**. Connect them to [Watta](https://watta.io), choose compatible models from your account, and manage access and usage from one desktop app.
 
